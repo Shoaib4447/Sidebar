@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import {
   FaBehance,
   FaFacebook,
@@ -10,64 +10,64 @@ import {
   FaFolderOpen,
   FaCalendarAlt,
   FaWpforms,
-} from 'react-icons/fa';
+} from "react-icons/fa";
 export const links = [
   {
     id: 1,
-    url: '/',
-    text: 'home',
-    icon: <FaHome />,
+    url: "/",
+    text: "home",
+    icon: FaHome,
   },
   {
     id: 2,
-    url: '/team',
-    text: 'team',
-    icon: <FaUserFriends />,
+    url: "/team",
+    text: "team",
+    icon: FaUserFriends,
   },
   {
     id: 3,
-    url: '/projects',
-    text: 'projects',
-    icon: <FaFolderOpen />,
+    url: "/projects",
+    text: "projects",
+    icon: FaFolderOpen,
   },
   {
     id: 4,
-    url: '/calendar',
-    text: 'calendar',
-    icon: <FaCalendarAlt />,
+    url: "/calendar",
+    text: "calendar",
+    icon: FaCalendarAlt,
   },
   {
     id: 5,
-    url: '/documents',
-    text: 'documents',
-    icon: <FaWpforms />,
+    url: "/documents",
+    text: "documents",
+    icon: FaWpforms,
   },
 ];
 
 export const social = [
   {
     id: 1,
-    url: 'https://www.twitter.com',
-    icon: <FaFacebook />,
+    url: "https://www.twitter.com",
+    icon: FaFacebook,
   },
   {
     id: 2,
-    url: 'https://www.twitter.com',
-    icon: <FaTwitter />,
+    url: "https://www.twitter.com",
+    icon: FaTwitter,
   },
   {
     id: 3,
-    url: 'https://www.twitter.com',
-    icon: <FaLinkedin />,
+    url: "https://www.twitter.com",
+    icon: FaLinkedin,
   },
   {
     id: 4,
-    url: 'https://www.twitter.com',
-    icon: <FaBehance />,
+    url: "https://www.twitter.com",
+    icon: FaBehance,
   },
   {
     id: 5,
-    url: 'https://www.twitter.com',
-    icon: <FaSketch />,
+    url: "https://www.twitter.com",
+    icon: FaSketch,
   },
 ];
