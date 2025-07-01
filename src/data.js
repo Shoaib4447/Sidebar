@@ -16,31 +16,31 @@ export const links = [
     id: 1,
     url: "/",
     text: "home",
-    icon: FaHome,
+    Icon: FaHome,
   },
   {
     id: 2,
     url: "/team",
     text: "team",
-    icon: FaUserFriends,
+    Icon: FaUserFriends,
   },
   {
     id: 3,
     url: "/projects",
     text: "projects",
-    icon: FaFolderOpen,
+    Icon: FaFolderOpen,
   },
   {
     id: 4,
     url: "/calendar",
     text: "calendar",
-    icon: FaCalendarAlt,
+    Icon: FaCalendarAlt,
   },
   {
     id: 5,
     url: "/documents",
     text: "documents",
-    icon: FaWpforms,
+    Icon: FaWpforms,
   },
 ];
 
@@ -48,26 +48,26 @@ export const social = [
   {
     id: 1,
     url: "https://www.twitter.com",
-    icon: FaFacebook,
+    Icon: FaFacebook,
   },
   {
     id: 2,
     url: "https://www.twitter.com",
-    icon: FaTwitter,
+    Icon: FaTwitter,
   },
   {
     id: 3,
     url: "https://www.twitter.com",
-    icon: FaLinkedin,
+    Icon: FaLinkedin,
   },
   {
     id: 4,
     url: "https://www.twitter.com",
-    icon: FaBehance,
+    Icon: FaBehance,
   },
   {
     id: 5,
     url: "https://www.twitter.com",
-    icon: FaSketch,
+    Icon: FaSketch,
   },
 ];
